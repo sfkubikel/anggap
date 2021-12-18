@@ -4,6 +4,6 @@ layout: base
 
 # kubikel bookish
 
-Tempat bernaungnya kubikel-kubikel yang berserakan
+Tempat bernaungnya kubikel-kubikel yang berisi review-review buku.
 
-Jadi biar kelihatan rapi, yuk kita [rapikan dulu](https://www.pidaalandrian.com/) supaya kelihatan bersih...
+Penasaran? Yuk cek info lengkapnya di [Kubikel Bookish](https://www.pidaalandrian.com/) ...
